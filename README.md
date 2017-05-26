@@ -10,6 +10,7 @@ git clone https://github.com/kamou/r2scripts.git
 
 ##### Regtrace:
 Dynamically and recursively searches for all ascii strings in registers with the help of the `drr` command.
+use `#!pipe python path/to/regtrace.py` to start tracing
 
 ### Author:
 Ayman Khamouma ([@dsknctr](https://twitter.com/dsknctr)) ak42@mg.blackbunny.io

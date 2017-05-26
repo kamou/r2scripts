@@ -94,7 +94,6 @@ class R2(object):
         return v
 
 debugger = R2("regtrace")
-debugger.r2.cmd("dcu main")
 debugger.r2.cmd("e scr.color=false")
 found = []
 
